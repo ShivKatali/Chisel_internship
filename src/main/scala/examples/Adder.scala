@@ -1,7 +1,6 @@
 // See LICENSE.txt for license details.
 
-
-standard without "addexistinf file
+new word
 
 
 package examples
