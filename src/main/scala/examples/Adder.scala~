@@ -7,8 +7,6 @@ package examples
 
 import chisel3._
 
-hello
-
 //A n-bit adder with carry in and carry out
 class Adder(val n:Int) extends Module {
   val io = IO(new Bundle {
