@@ -3,10 +3,7 @@ package examples
 import chisel3._
 import chisel3.util._
 
-
-
-
-class Test_pwm(val n :Int) extends Module {
+class PWM(val n :Int) extends Module {
   val io = IO(new Bundle {
     val rise  = Input(UInt(n.W))
     val fall =  Input(UInt(n.W))
