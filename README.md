@@ -1,4 +1,6 @@
 # Chisel_internship
 chisel files
 
-*counter implementation using verilator firrtl and treadle
+PWM implementation using firrtl, verilator and treadle
+
+PDM implementation 
